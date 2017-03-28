@@ -1,2 +1,5 @@
 # hello-world
-My first Github Repo based on the github guide
+
+Hiya 
+
+geesDev here. me develops iOS apps
